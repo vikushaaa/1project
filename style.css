@@ -1,0 +1,11 @@
+body {
+    background: url(https://images.prom.ua/3676277626_w640_h640_foto-fon-vinilovyj-120h75sm.jpg)
+      center / cover fixed;
+    display: flex;
+    justify-content: center;
+  }
+  input {
+    padding: block;
+    margin: 10px auto;
+    borger: 50px solid #css;
+  }
